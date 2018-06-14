@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>X</title>
+  <title>言寺</title>
   
   <subtitle>生活在苟且的当下，诗与远方比远方更远……</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>木头马尾</name>
+    <name>小九</name>
     
   </author>
   
